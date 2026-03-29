@@ -1,0 +1,6 @@
+[submodule "Controller"]
+	path = Controller
+	url = https://github.com/michael513823-sys/OpenLapse-Controller.git
+[submodule "Raspi"]
+	path = Raspi
+	url = https://github.com/michael513823-sys/OpenLapse-Embedded.git
